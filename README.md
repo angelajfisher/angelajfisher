@@ -72,5 +72,6 @@ Hi, I'm Angela, a Full Stack Software Engineer specializing in web development! 
 ## My Stats
 
 <div id="stats" align="center">
+  <a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg" alt="Total hours spent coding" /></a> hours spent coding since November 29, 2023!<br>
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=angelajfisher&theme=black-ice&exclude_days=Sun%2CSat&ring=7E7E7E&fire=EBEBEB&currStreakLabel=7E7E7E&background=282828" alt="GitHub Streak" /></a>
 </div>
