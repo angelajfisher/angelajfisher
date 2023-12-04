@@ -54,6 +54,10 @@ Hi, I'm Angela, a Full Stack Software Engineer specializing in web development! 
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm Logo" title="npm">
   &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/24f2a9e2a16401e681583ae7a494fad71df03fce/icons/oauth/oauth-original.svg" width="50" height="50" alt="OAuth Logo" title="OAuth">
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/24f2a9e2a16401e681583ae7a494fad71df03fce/icons/openapi/openapi-original-wordmark.svg" width="50" height="50" alt="OpenAPI Logo" title="OpenAPI">
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL Logo" title="PostgreSQL">
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/pytest/pytest-original-wordmark.svg" width="50" height="50" alt="Pytest Logo" title="Pytest">
@@ -74,6 +78,6 @@ Hi, I'm Angela, a Full Stack Software Engineer specializing in web development! 
 ## My Stats
 
 <div id="stats" align="center">
-  <a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg" alt="Total hours spent coding" /></a> spent coding since November 29, 2023 👩🏻‍💻<br><br>
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=angelajfisher&theme=black-ice&exclude_days=Sun%2CSat&ring=7E7E7E&fire=EBEBEB&currStreakLabel=7E7E7E&background=282828" alt="GitHub Streak" /></a>
+  <a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=for-the-badge" alt="total coding hours" /></a><br>spent coding since Nov 29, 2023<br><br>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=angelajfisher&theme=black-ice&ring=7E7E7E&fire=EBEBEB&currStreakLabel=7E7E7E&background=282828" alt="GitHub activity streak" /></a>
 </div>
