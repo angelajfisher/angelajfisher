@@ -15,6 +15,7 @@ jobs:
       # uses: anmol098/waka-readme-stats@b2646a9af922f06b6a3cf3c3059e3bb67df077ca
       - uses: anmol098/waka-readme-stats@V3
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Your Wakatime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Show the list of OS Worked on In dev metrics
