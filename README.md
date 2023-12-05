@@ -1,20 +1,29 @@
-<div id="header" align="center">
-  <img src="https://github.com/angelajfisher/angelajfisher/blob/988753b3c42eebbf3b61e564c5e65dace6862ff2/Angela%20Fisher%20Banner%20-%20Long.png" alt="Angela Fisher Banner">
-  <p id="socials">
-    <a href="https://www.linkedin.com/in/angelajfisher/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height=24 width=100 alt="LinkedIn Badge"></a>
-    &nbsp;
-    <a href="https://www.angelajfisher.com"><img src="https://img.shields.io/badge/Portfolio-grey?style=plastic&logo=aboutdotme&logoColor=white" height=24 width=100 alt="Portfolio Site Badge"></a>
-    &nbsp;
-    <a href="https://gitlab.com/angelajfisher"><img src="https://img.shields.io/badge/GitLab-orange?style=plastic&logo=gitlab&logoColor=white" height=24 width=80 alt="GitLab Badge"></a>
-  </p>
-</div>
+## ❀ About Me ⋆.ೃ࿔*:･
 
-## Introduction
+Hi, I'm Angela, a professionally trained Full Stack Software Engineer with a background in web development and devops. I'm passionate about building robust, future-proof applications that uplift and support communities.
 
-Hi, I'm Angela, a Full Stack Software Engineer specializing in web development! I've just recently migrated from GitLab, so stay tuned as I update my portfolio here :)
+I've long had a deep affinity to programming and enjoy spending my free time sharpening my skills and learning new technologies, but when I'm away from my desk you'll often find me in the forest or exploring the cozy nooks and crannies of Seattle.
 
-## Languages and Tools
+## ✧ Development ༉‧₊˚.
 
+### My Projects
+I'm currently working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities. Check us out at [CommuniTEA.life](https://communitea.life/) and discover the joys of tea in your neighborhood!
+
+### My Monthly Breakdown
+<!--START_SECTION:waka-->
+
+```go
+Go           16 hrs 8 mins   ███████████████▓░░░░░░░░░   62.44 %
+SQL          2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Bash         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+YAML         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+```
+
+<!--END_SECTION:waka--> 
+<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> total coding time since Nov 29, 2023 ✨<br>
+
+<!--
 <div id="tech" align="center">
   <img src="https://github.com/devicons/devicon/blob/24f2a9e2a16401e681583ae7a494fad71df03fce/icons/axios/axios-plain-wordmark.svg" width="50" height="50" alt="Axios Logo" title="Axios">
   &nbsp;
@@ -74,25 +83,4 @@ Hi, I'm Angela, a Full Stack Software Engineer specializing in web development! 
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="VSCode Logo" title="VSCode">
 </div>
-
-## My Stats
-
-<div id="stats" align="center">
-  <a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=for-the-badge" alt="total coding hours" /></a><br>spent coding since Nov 29, 2023<br><br>
-  <!--START_SECTION:waka-->
-
-```txt
-From: 29 November 2023 - To: 04 December 2023
-
-Total Time: 25 hrs 51 mins
-
-Go           16 hrs 8 mins   ███████████████▓░░░░░░░░░   62.44 %
-SQL          2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Bash         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-YAML         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-```
-
-<!--END_SECTION:waka-->  
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=angelajfisher&theme=black-ice&ring=7E7E7E&fire=EBEBEB&currStreakLabel=7E7E7E&background=282828" alt="GitHub activity streak" /></a>
-</div>
+-->
