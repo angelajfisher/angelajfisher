@@ -4,7 +4,7 @@ Hi, I'm Angela, a professionally trained Full Stack Software Engineer with a bac
 
 I've long had a deep affinity to programming and enjoy spending my free time sharpening my skills and learning new technologies, but when I'm away from my desk you'll often find me in the forest or exploring the cozy nooks and crannies of Seattle.
 
-Fun fact: I didn't just study computer science in university, I studied Japanese too! よろしくお願いします ☺
+Fun fact: In addition to studying computer science, I also got a BA in Japanese! よろしくお願いします ☺
 
 ## ✧ Development ༉‧₊˚.
 
@@ -24,7 +24,7 @@ YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka--> 
-<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> total coding time since Nov 29, 2023 ✨<br>
+<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> total active coding time since Nov 29, 2023 💠<br>
 
 <!--
 <div id="tech" align="center">
