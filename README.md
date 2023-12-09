@@ -15,12 +15,12 @@ I'm currently working on [**CommuniTEA**](https://github.com/CommuniTEAM/Communi
 <!--START_SECTION:waka-->
 
 ```go
-Total Time: 35 hrs 5 mins
+Total Time: 37 hrs 59 mins
 
-Go           22 hrs 59 mins  ████████████████▒░░░░░░░░   65.51 %
-SQL          2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Bash         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-YAML         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Go           24 hrs 53 mins  ████████████████▒░░░░░░░░   65.52 %
+SQL          2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Bash         2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+YAML         1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 <!--END_SECTION:waka--> 
