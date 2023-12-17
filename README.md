@@ -4,14 +4,14 @@ Hi, I'm Angela, a professionally trained Full Stack Software Engineer with a bac
 
 I've long had a deep affinity to programming and enjoy spending my free time sharpening my skills and learning new technologies, but when I'm away from my desk you'll often find me in the forest or exploring the cozy nooks and crannies of Seattle.
 
-Fun fact: In addition to studying computer science, I also got a BA in Japanese! よろしくお願いします ☺
+Fun fact: In addition to studying computer science, I got a BA in Japanese! よろしくお願いします ☺
 
 ## ✧ Development ༉‧₊˚.
 
 ### Projects ♫
-I'm currently working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities. Check us out at [CommuniTEA.life](https://communitea.life/) and discover the joys of tea in your neighborhood!
+I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities. Check us out at [CommuniTEA.life](https://communitea.life/) when we launch and discover the joys of tea in your neighborhood!
 
-### Month in Review ✎
+### Languages ⁂
 <!--START_SECTION:waka-->
 
 ```go
