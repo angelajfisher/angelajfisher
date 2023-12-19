@@ -16,8 +16,6 @@ I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/Comm
 <!--START_SECTION:waka-->
 
 ```go
-Total Time: 55 hrs 3 mins
-
 Go           33 hrs 2 mins   ███████████████░░░░░░░░░░   60.00 %
 YAML         5 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
 Bash         4 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
