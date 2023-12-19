@@ -9,7 +9,8 @@ Fun fact: In addition to studying computer science, I got a BA in Japanese! よ�
 ## ✧ Development ༉‧₊˚.
 
 ### Projects ♫
-I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities. Check us out at [CommuniTEA.life](https://communitea.life/) when we launch and discover the joys of tea in your neighborhood!
+I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities.
+<!--Check us out at [CommuniTEA.life](https://communitea.life/) and discover the joys of tea in your neighborhood!-->
 
 ### Languages ⁂
 <!--START_SECTION:waka-->
