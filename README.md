@@ -12,6 +12,8 @@ Fun fact: In addition to studying computer science, I got a bachelor's in Japane
 I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities. Check us out at [CommuniTEA.life](https://communitea.life/) and discover the joys of tea in your neighborhood!
 
 ### Languages ⁂
+
+I've worked closely with Python, Go, JavaScript, Java, and Assembly, amongst others. My most used languages and the total time I've spent coding them (since Dec '23) can be seen in the graph below.
 <!--START_SECTION:waka-->
 
 ```go
@@ -22,7 +24,7 @@ SQL             4 hrs 41 mins   █░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka--> 
-<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> total active coding time since Nov 29, 2023 💠<br>
+<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> of total active coding time since Nov 29, 2023 💠<br>
 
 <!--
 <div id="tech" align="center">
