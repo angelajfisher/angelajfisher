@@ -22,7 +22,7 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: go # optional
           TIME_RANGE: all_time # optional
-          # LANG_COUNT: 5 # optional (5 is default)
+          LANG_COUNT: 6 # optional (5 is default)
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
