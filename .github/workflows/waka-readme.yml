@@ -12,8 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
@@ -27,10 +26,10 @@ jobs:
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
           # STOP_AT_OTHER: false # optional (false is default)
-          IGNORED_LANGUAGES: MARKDOWN # optional
+          # IGNORED_LANGUAGES: MARKDOWN # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          # TARGET_BRANCH: main # optional
+          # TARGET_PATH: README.md # optional
+          # COMMITTER_NAME: GitHubActionBot # optional
+          # COMMITTER_EMAIL: action-bot@github.com # optional
