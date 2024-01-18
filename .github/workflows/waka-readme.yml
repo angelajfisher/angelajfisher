@@ -21,12 +21,12 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: go # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 6 # optional (5 is default)
+          # LANG_COUNT: 6 # optional (5 is default)
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
           # STOP_AT_OTHER: false # optional (false is default)
-          # IGNORED_LANGUAGES: MARKDOWN # optional
+          IGNORED_LANGUAGES: MARKDOWN # optional
           ### commit
           # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # TARGET_BRANCH: main # optional
