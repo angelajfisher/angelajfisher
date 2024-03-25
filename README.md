@@ -1,6 +1,6 @@
 ## ❀ About Me ⋆.ೃ࿔*:･
 
-Hi, I'm Angela, a professionally trained Full Stack Software Engineer with a background in web development and devops. I'm passionate about building robust, future-proof applications that uplift and support communities.
+Hi, I'm Angela, a professionally trained Full Stack Software Engineer with a background in web development and devops. I'm passionate about building robust, maintainable applications that uplift and support communities.
 
 I've long had a deep affinity to programming and enjoy spending my free time sharpening my skills and learning new technologies, but when I'm away from my desk you'll often find me in the forest or exploring the cozy nooks and crannies of Seattle.
 
@@ -9,7 +9,7 @@ Fun fact: In addition to studying computer science, I got a bachelor's in Japane
 ## ✧ Development ༉‧₊˚.
 
 ### Projects ♫
-I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together with their local communities. Check us out at [CommuniTEA.life](https://communitea.life/) and discover the joys of tea in your neighborhood!
+I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together in their local communities. Check out our API as it develops at [CommuniTEA.life/api](https://communitea.life/api) and get ready to discover the joys of tea in your neighborhood soon!
 
 ### Languages ⁂
 
@@ -25,7 +25,7 @@ Python          24 hrs 42 mins  █▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka--> 
-<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> of total active coding time since Nov 29, 2023 💠<br>
+<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> of total active coding time since December 2023 💠<br>
 
 <!--
 <div id="tech" align="center">
