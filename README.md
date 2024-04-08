@@ -9,7 +9,7 @@ Fun fact: In addition to studying computer science, I got a bachelor's in Japane
 ## ✧ Development ༉‧₊˚.
 
 ### Projects ♫
-I recently began working on [**CommuniTEA**](https://github.com/CommuniTEAM/CommuniTEA), a single-page web application written in TypeScript and Go that aims to bring tea-enthusiasts together in their local communities. Check out our API as it develops at [CommuniTEA.life/api](https://communitea.life/api) and get ready to discover the joys of tea in your neighborhood soon!
+My current role is as a Software Engineering Immersive Resident at Galvanize, Inc., where I work as a mentor to students studying Python and JavaScript and as a developer maintaining a production Django site serving 400+ users. Technologies I use in my day-to-day activities primarily include Python, JavaScript, HTML/CSS, and Docker.
 
 ### Languages ⁂
 
