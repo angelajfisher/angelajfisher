@@ -17,11 +17,11 @@ I've worked closely with Python, Go, JavaScript, Java, and Assembly, amongst oth
 <!--START_SECTION:waka-->
 
 ```go
-Go              130 hrs 26 mins ████████▒░░░░░░░░░░░░░░░░   33.02 %
-TypeScript      49 hrs 8 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Bash            47 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-Python          35 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-YAML            29 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Go              130 hrs 26 mins ████████░░░░░░░░░░░░░░░░░   32.55 %
+TypeScript      53 hrs 38 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+Bash            47 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Python          35 hrs 13 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+YAML            29 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
 
 <!--END_SECTION:waka--> 
