@@ -18,7 +18,7 @@ I've worked closely with Python, Go, JavaScript, Java, and Assembly, amongst oth
 
 ```go
 Go              158 hrs 28 mins ████████░░░░░░░░░░░░░░░░░   31.84 %
-Bash            57 hrs 2 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Bash            57 hrs 4 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
 TypeScript      53 hrs 51 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
 HTML            43 hrs 16 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
 Python          37 hrs 32 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
