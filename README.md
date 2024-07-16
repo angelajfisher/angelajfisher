@@ -9,11 +9,14 @@ Fun fact: In addition to studying computer science, I got a bachelor's in Japane
 ## ✧ Development ༉‧₊˚.
 
 ### Projects ♫
-My current role is as a Software Engineering Immersive Resident at Galvanize, Inc., where I work as a mentor to students studying Python and JavaScript and as a developer maintaining a production Django site serving 400+ users. Technologies I use in my day-to-day activities primarily include Python, JavaScript, HTML/CSS, and Docker.
+
+My most recent role was as a Software Engineering Immersive Resident at Galvanize, Inc., where I worked as a developer maintaining a production Django site serving 400+ users and as a mentor to students studying Python and JavaScript. Technologies I used in my day-to-day activities primarily include Python (Django, FastAPI), JavaScript (React), HTML/CSS, SQL (Postgres), and Docker.
+
+I'm currently working on a single page web application for tea enthusiasts titled CommuniTEA, built with FastAPI and ReactJS. Check out the [repository](https://gitlab.com/angelajfisher/communiTEA) or try out a [demo of the site](https://angelajfisher.gitlab.io/communiTEA/)!
 
 ### Languages ⁂
 
-I've worked closely with Python, Go, JavaScript, Java, and Assembly, amongst others. My most used languages and the total time I've spent coding them (since Dec '23) can be seen in the graph below.
+I've worked closely with Python, Go, JavaScript/TypeScript, Java, and Assembly, amongst others. My most used languages and the total time I've spent coding them (since Dec '23) can be seen in the graph below.
 <!--START_SECTION:waka-->
 
 ```go
