@@ -1,6 +1,6 @@
 ## ❀ About Me ⋆.ೃ࿔*:･
 
-Hi, I'm Angela, a professionally trained Full Stack Software Engineer with a background in web development and devops. I'm passionate about building robust, maintainable applications that uplift and support communities.
+Hi, I'm Angela, a professionally trained Software Engineer with a background in full stack web development and devops. I'm passionate about building robust, maintainable applications that uplift and support communities.
 
 I've long had a deep affinity to programming and enjoy spending my free time sharpening my skills and learning new technologies, but when I'm away from my desk you'll often find me in the forest or exploring the cozy nooks and crannies of Seattle.
 
