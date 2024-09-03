@@ -1,0 +1,15 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 16 * * *"}]
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
