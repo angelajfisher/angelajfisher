@@ -24,7 +24,7 @@ A single-page web application aiming to bring local community members and busine
 ```go
 Go              226 hrs 6 mins  ███████▓░░░░░░░░░░░░░░░░░   30.74 %
 Bash            76 hrs 48 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Markdown        65 hrs 14 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Markdown        65 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
 TypeScript      64 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 HTML            61 hrs 24 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
 ```
