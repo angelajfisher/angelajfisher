@@ -1,8 +1,8 @@
 ### Nice to meet you 👋 I'm Angela!
 
-- I specialize in web development on the full stack and in devops 👩‍💻
-- Working on tools that help communities grow and people stay connected brings me joy! 🤝
-- When I'm not at my desk, you can find me exploring the cozy nooks and crannies of Seattle 🧋
+- I'm a backend engineer with experience on the full-stack and in devops 👩‍💻
+- Working on tech that helps communities grow and people stay connected brings me joy 🤝
+- When I'm not at my desk, you can find me in the forest or exploring the cozy nooks and crannies of Seattle 🧋
 
 ---
 
@@ -18,7 +18,7 @@ A single-page web application aiming to bring local community members and busine
 
 ---
 
-<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> of total active coding time since December 2023 💠<br>
+<a href="https://wakatime.com/@018c1e94-8745-411f-aea1-f33be044d952"><img src="https://wakatime.com/badge/user/018c1e94-8745-411f-aea1-f33be044d952.svg?style=flat-square" alt="total coding hours" /></a> of coding since December 2023 🌊<br>
 <!--START_SECTION:waka-->
 
 ```go
