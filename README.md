@@ -22,11 +22,11 @@ A single-page web application aiming to bring local community members and busine
 <!--START_SECTION:waka-->
 
 ```go
-Go                272 hrs 34 mins ████████░░░░░░░░░░░░░░░░░   32.37 %
-TypeScript        88 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Bash              77 hrs 40 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Markdown          74 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-HTML              61 hrs 33 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Go                275 hrs 13 mins ████████░░░░░░░░░░░░░░░░░   32.56 %
+TypeScript        88 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Bash              77 hrs 43 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Markdown          75 hrs 8 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+HTML              61 hrs 33 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka--> 
