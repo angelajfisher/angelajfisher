@@ -2,6 +2,7 @@
 
 - I'm a backend engineer with experience on the full-stack and in devops 👩‍💻
 - Working on tech that helps communities grow and people stay connected brings me joy 🤝
+- Tinkering with my home lab and finding ways to automate everything is how I spend most of my free time ⚙️
 - When I'm not at my desk, you can find me in the forest or exploring the cozy nooks and crannies of Seattle 🧋
 
 ---
@@ -10,7 +11,7 @@
 
 👾 **Meeting Mate** | [![](https://img.shields.io/badge/Code-violet.svg?style=flat-square)](https://github.com/angelajfisher/meeting-mate) [![](https://img.shields.io/badge/Site-violet.svg?style=flat-square)](https://angelajfisher.com/projects/meeting-mate)
 
-Discord bot sharing real-time Zoom meeting updates to keep teams connected across platforms! Built with Go.
+Discord bot sharing real-time Zoom meeting updates to keep teams connected across platforms! Built with Go and SQLite.
 
 🍵 **CommuniTEA** | [![](https://img.shields.io/badge/Code-green.svg?style=flat-square)](https://gitlab.com/angelajfisher/communiTEA) [![](https://img.shields.io/badge/Demo-green.svg?style=flat-square)](https://angelajfisher.gitlab.io/communiTEA/)
 
