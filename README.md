@@ -2,7 +2,7 @@
 
 - I'm a backend engineer with experience on the full-stack and in devops 👩‍💻
 - Working on tech that helps communities grow and people stay connected brings me joy 🤝
-- Tinkering with my home lab and finding ways to automate everything is how I spend most of my free time ⚙️
+- Most of my free time is spent tinkering with my home lab and finding ways to automate everything ⚙️
 - When I'm not at my desk, you can find me in the forest or exploring the cozy nooks and crannies of Seattle 🧋
 
 ---
