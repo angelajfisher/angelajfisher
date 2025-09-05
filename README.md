@@ -23,9 +23,9 @@ A single-page web application aiming to bring local community members and busine
 <!--START_SECTION:waka-->
 
 ```go
-Go                   603 hrs 52 mins ██████████▓░░░░░░░░░░░░░░   42.62 %
-TypeScript           155 hrs 47 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Markdown             99 hrs 33 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Go                   604 hrs 2 mins  ██████████▓░░░░░░░░░░░░░░   42.62 %
+TypeScript           155 hrs 47 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Markdown             99 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 Bash                 97 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 Python               80 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
