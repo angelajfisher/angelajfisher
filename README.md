@@ -3,7 +3,7 @@
 - I'm a backend engineer mainly working in Go, but enjoy dabbling on the full stack 👩‍💻
 - Working on tech that helps communities grow and people stay connected brings me joy 🤝
 - In my free time I'm usually tinkering with my home lab or finding things to automate ⚙️
-- When not at my desk, you can find me in the forest or exploring the city 🧋
+- When not at my desk, you can find me in the forest or sampling boba around Seattle 🧋
 
 ---
 
